@@ -17,7 +17,7 @@ function Hi() {
           AHMED RAZA ABDUL HAMEED
           <br />{" "}
         </h1>
-        <img src="./My photo.jpg" alt="left" width={150} />
+        <img src="https://avatars.githubusercontent.com/u/110114362?s=400&u=6ad91cd7f720f0bf165057e38c8e9d8a75a15ed8&v=4" alt="left" width={150} />
         <h5> Contact No:03********* </h5>
         <h5> Email:ra*****@gmail.com </h5>
         <h5> Address:****,Karachi,Sindh,Pakistan</h5>
